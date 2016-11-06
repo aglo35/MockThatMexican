@@ -1,9 +1,0 @@
-MockThatMexican/Library/*
-MockThatMexican/Temp/*
-MockThatMexican/Build/*
-*.pidb
-*.sln
-*.userprefs
-*.csproj
-*.orig
-*.sublime-workspace

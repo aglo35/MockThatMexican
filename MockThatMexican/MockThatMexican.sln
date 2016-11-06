@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B7AF1BB5-8A71-E4BD-F265-57D17735F467}") = "MockThatMexican", "Assembly-CSharp.csproj", "{8C17788D-9F51-E77D-9513-C60885EAD95F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C17788D-9F51-E77D-9513-C60885EAD95F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C17788D-9F51-E77D-9513-C60885EAD95F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C17788D-9F51-E77D-9513-C60885EAD95F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C17788D-9F51-E77D-9513-C60885EAD95F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
